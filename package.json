@@ -1,0 +1,29 @@
+{
+  "name": "brunokrebs.github.com",
+  "version": "1.0.0",
+  "description": "My GitHub page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunokrebs/brunokrebs.github.com.git"
+  },
+  "keywords": [
+    "github",
+    "page",
+    "brunokrebs"
+  ],
+  "author": "Bruno Krebs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunokrebs/brunokrebs.github.com/issues"
+  },
+  "homepage": "https://github.com/brunokrebs/brunokrebs.github.com#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}

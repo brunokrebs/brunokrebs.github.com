@@ -1,0 +1,25 @@
+{
+  "name": "brunokrebs.github.com",
+  "description": "My GitHub page",
+  "main": "index.html",
+  "authors": [
+    "Bruno Krebs"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "page",
+    "brunokrebs"
+  ],
+  "homepage": "https://github.com/brunokrebs/brunokrebs.github.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bng-selector": "^1.3.0"
+  }
+}
