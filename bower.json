@@ -20,6 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "bng-selector": "^1.3.1"
+    "bng-selector": "^1.4.0"
   }
 }
